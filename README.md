@@ -45,10 +45,10 @@ Place the dataset in the `data/` folder.
 ## Results
 The performance of the models is as follows:
 
-| Model                | Accuracy | Precision | Recall | F1 Score |
-|----------------------|----------|-----------|--------|----------|
-| Logistic Regression  | 95%      | 94%       | 96%    | 95%      |
-| Decision Tree        | 92%      | 91%       | 93%    | 92%      |
+| Model                | Accuracy | Precision | 
+|----------------------|----------|-----------|
+| Logistic Regression  | 95%      | 94%       |
+| Decision Tree        | 92%      | 91%       |
 
 *Note: Results may vary based on the dataset and parameter tuning.*
 
