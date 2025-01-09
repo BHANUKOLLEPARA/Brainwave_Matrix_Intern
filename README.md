@@ -21,11 +21,6 @@ Before running the project, ensure you have the following installed:
    cd fake-news-detection
    ```
 
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Dataset
 The project uses a dataset containing labeled news articles. You can use publicly available datasets like the [Fake News Dataset](https://www.kaggle.com/c/fake-news) from Kaggle. Make sure the dataset contains:
 - News content
